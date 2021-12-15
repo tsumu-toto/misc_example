@@ -15,7 +15,7 @@ JavaScriptでハッシュ値（SHA256）を生成するサンプル
 ------------
 コマンドで確認(mac or linux)
 ```
-echo -n korirakkuma | shasum -a 257
+echo -n korirakkuma | shasum -a 256
 ```
 + Web画面でSHA256ハッシュ生成ツール
   + https://www.milk-island.net/javascript/hashgenerator/sha2_256.html
